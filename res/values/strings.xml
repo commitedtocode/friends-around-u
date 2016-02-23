@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Friends Around U</string>
+    <string name="userlable">User Name</string>
+    <string name="passlable">Password</string>
+    <string name="logbutton">Login</string>
+    <string name="welcome">Welcome to FAU</string>
+    <string name="name">Name</string>
+    <string name="email">Email Id</string>
+    <string name="mobile">Mobile</string>
+    <string name="reg">Register</string>
+    <string name="ip">192.168.42.159</string>
+    <string name="logout">Logout</string>
+    <string name="loginusername">Hello,  </string>
+    <string name="faulogo">Fau Logo</string>
+    <string name="Usernamehint">Username</string>
+    <string name="passwordhint">Password</string>
+    <string name="btnlogin">Login</string>
+    <string name="btnregister">Register</string>
+    <string name="contactsynchtile">Contact Syncronization</string>
+    <string name="dontsynch">Dont synch contact from phone</string>
+    <string name="synchall">Synch contact from phone</string>
+    <string name="btnsynch">Done</string>
+    <string name="contactsynchpb">Please wait while a moment</string>
+    <string name="service_started">service</string>
+    <string name="markertap">please tap on ballons on map</string>
+    <string name="callbtn">Call</string>
+    <string name="smsbtn">SMS</string>
+    <string name="chatbtn">Chat</string>
+    <string name="instru1">- It is mandetory to enable  GPS service on your mobile device for best results.</string>
+    <string name="instr2">- Use high speed internet connectivity service. </string>
+    <string name="instr3">This application uses both GPS and Internet service it may cosume battery</string>
+    <string name="instr4">- Before using  this application user must have to Login into Google Account</string>
+    <string name="instr1btn1">click here for location setting</string>
+    <string name="instr2btn2">click here for network settings</string>
+    <string name="instr3btn3">click here for Google Account setting</string>
+    <string name="instrdemobtn">Start Application</string>
+    <string name="tourbtn">start Application</string>
+
+</resources>

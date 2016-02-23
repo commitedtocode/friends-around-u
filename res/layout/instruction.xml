@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrolllogin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:fillViewport="true" 
+    android:scrollbars="vertical">
+
+	<LinearLayout
+	    xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical" >
+
+		<TextView
+		    android:id="@+id/textView1"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_gravity="center_horizontal"
+		    android:layout_marginTop="40dp"
+		    android:text="@string/welcome"
+		    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+		<TextView
+		    android:id="@+id/TextView01"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_marginLeft="30dp"
+		    android:layout_marginRight="30dp"
+		    android:layout_marginTop="20dp"
+		    android:text="@string/instru1"
+		    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+		<Button
+		    android:id="@+id/instlocationbtn"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_gravity="center_horizontal"
+		    android:text="@string/instr1btn1" />
+
+		<TextView
+		    android:id="@+id/TextView03"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_marginLeft="30dp"
+		    android:layout_marginRight="30dp"
+		    android:layout_marginTop="20dp"
+		    android:text="@string/instr2"
+		    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+		<Button
+		    android:id="@+id/instrnetwrkbtn"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_gravity="center_horizontal"
+		    android:text="@string/instr2btn2" />
+
+		<TextView
+		    android:id="@+id/TextView02"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_marginLeft="30dp"
+		    android:layout_marginRight="30dp"
+		    android:layout_marginTop="20dp"
+		    android:text="@string/instr4"
+		    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+		<Button
+		    android:id="@+id/instraccountbtn"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_gravity="center_horizontal"
+		    android:text="@string/instr3btn3" />
+
+		<TextView
+		    android:id="@+id/textView2"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_marginLeft="30dp"
+		    android:layout_marginRight="30dp"
+		    android:layout_marginTop="20dp"
+		    android:text="@string/instr3"
+		    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+		<Button
+		    android:id="@+id/instrtourbtn"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_gravity="center_horizontal"
+		    android:layout_marginTop="30dp"
+		    android:text="@string/instrdemobtn" />
+
+	</LinearLayout>
+</ScrollView>
